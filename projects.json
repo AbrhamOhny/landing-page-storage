@@ -4,47 +4,47 @@
     "language": "Python",
     "tech_stack": "Native",
     "developer": "Kevin Rio Alexander",
-    "image_url": "None",
-    "details": "None"
+    "image_url": null,
+    "details": null
   },
   {
     "title": "Aplikasi Deteksi Menggunakan YOLO",
     "language": "Python",
     "tech_stack": "Native",
     "developer": "Kevin Rio Alexander",
-    "image_url": "None",
-    "details": "None"
+    "image_url": null,
+    "details": null
   },
   {
     "title": "Aplikasi Braille Android Menggunakan YOLO",
     "language": "Python",
     "tech_stack": "Native",
     "developer": "Kevin Rio Alexander",
-    "image_url": "None",
-    "details": "None"
+    "image_url": null,
+    "details": null
   },
   {
     "title": "Aplkasi Android Perhitungan Bunga Kredit",
     "language": "Java",
     "tech_stack": "Android Studio",
     "developer": "Kevin Rio Alexander",
-    "image_url": "None",
-    "details": "None"
+    "image_url": null,
+    "details": null
   },
   {
     "title": "Aplikasi Absensi Android",
     "language": "Java",
     "tech_stack": "Android Studio",
     "developer": "Kevin Rio Alexander",
-    "image_url": "None",
-    "details": "None"
+    "image_url": null,
+    "details": null
   },
   {
     "title": "Aplikasi Gudang / Inventaris",
     "language": "PHP",
     "tech_stack": "Native",
     "developer": "Kevin Rio Alexander",
-    "image_url": "None",
-    "details": "None"
+    "image_url": null,
+    "details": null
   }
 ]
