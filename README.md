@@ -9,7 +9,8 @@ project template:
   "details": {
     "language": "Python",
     "tech_stack": "Native",
-    "description": null
+    "description": null,
+    "status": "completed"
   }
 },
 ```
