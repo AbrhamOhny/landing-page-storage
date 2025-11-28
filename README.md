@@ -3,8 +3,15 @@ project template:
 {
   "title": "Aplikasi RDD (Road Damage Detection)",
   "media_url": {
-    "images": null,
-    "videos": null
+    "images": [
+      "./1.png",
+      "./2.png",
+      "./3.png"
+    ],
+    "videos": [
+      "./1.mp4",
+      "./2.mp4"
+    ]
   },
   "details": {
     "language": "Python",
