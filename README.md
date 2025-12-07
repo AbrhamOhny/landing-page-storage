@@ -1,5 +1,6 @@
 project template:
 ```
+"images": "@gh/Hilltown Resort",  <-  github directory "@gh"
 {
   "title": "Aplikasi RDD (Road Damage Detection)",
   "media_url": {
