@@ -2,19 +2,7 @@
   {
     "title": "Fullstack website Hilltown Resort",
     "media_url": {
-      "images": [
-        "https://i.imgur.com/2rx3XMk.png",
-        "https://i.imgur.com/TnAmZ8F.png",
-        "https://i.imgur.com/bTjD1Il.png",
-        "https://i.imgur.com/iLZKged.png",
-        "https://i.imgur.com/oOaa9Kg.png",
-        "https://i.imgur.com/WMNJiaw.png",
-        "https://i.imgur.com/gJTcZa5.png",
-        "https://i.imgur.com/Dxvso91.png",
-        "https://i.imgur.com/c9TkM5X.png",
-        "https://i.imgur.com/2YVdcLN.png",
-        "https://i.imgur.com/WIY1Dnf.png"
-      ],
+      "images": "@gh/Hilltown Resort",
       "videos": [
         "https://drive.google.com/file/d/1cc_n2xqTZhpkDUjZmQfqMIPnXpXEND7V/view?usp=drive_link"
       ]
@@ -94,9 +82,7 @@
   {
     "title": "Aplikasi Gudang / Inventaris",
     "media_url": {
-      "images": [
-        "https://raw.githubusercontent.com/shinobidev-public/landing-page-storage/refs/heads/main/Aplikasi%20Gudang/Screenshot%202025-12-05%20081257.png"
-      ],
+      "images": "@gh/Aplikasi Gudang",
       "videos": null
     },
     "details": {
